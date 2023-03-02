@@ -8,4 +8,11 @@ public class HelloNumbers {
             x = x + 1;
         }
 	}
-} 
+}
+
+/**
+ * variables must be declared before they can be used
+ * variables must have a specific type which can never change
+ * typed are verified before the code runs
+ * with type issues, the code WILL NOT COMPILE
+ */
